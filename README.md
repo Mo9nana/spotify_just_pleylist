@@ -27,5 +27,4 @@ PS C:\Users\mona>
 ## Author
 
 [twitter](https://twitter.com/paxmona)<br>
-[blog](https://mona.click)<br>
-mail : info@mona.click
+[Qiita](https://qiita.com/be_)<br>
